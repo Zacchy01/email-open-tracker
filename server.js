@@ -4,7 +4,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 // Replace with your actual bot token and chat ID
-const BOT_TOKEN = "7831635528:AAGAQwAel25kcu1xIPunmaHZ1qBSQ7iAeJ0";
+const BOT_TOKEN = "8182919246:AAEqAvPr12ZFtJJQDHEl1pn5bfSZmMSb0PM";
 const CHAT_ID = "6684889364";
 
 app.get("/email-open", async (req, res) => {
